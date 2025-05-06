@@ -1,12 +1,42 @@
-# React + Vite
+# 🌐 Sannan's Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio — a fully animated, scroll-less single-page application built using modern frontend tools. This project showcases my frontend development and animation skills with smooth transitions between sections, all without a single scroll bar.
 
-Currently, two official plugins are available:
+🔗 **Live Demo**: [https://portfolio-one-plum-51.vercel.app](https://portfolio-one-plum-51.vercel.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ✨ **Fully Animated UI** — Seamless transitions between sections using GSAP.
+- 🧭 **Scroll-less Layout** — No vertical or horizontal scrollbars; full view is always visible.
+- 📱 **Responsive Design** — Works well on all screen sizes, including mobile.
+- ⚡ **Fast Build** — Powered by Vite for fast development experience.
+
+---
+
+## 🛠 Tech Stack
+
+- **React** — Component-based UI
+- **Tailwind CSS** — Utility-first styling
+- **GSAP (GreenSock)** — Advanced animations and transitions
+- **Vite** — Fast development build tool
+
+---
+
+## 🧩 Getting Started
+
+To run the project locally:
+
+```bash
+# 1. Clone the repo
+git clone https://github.com/Sannan144/Portfolio.git
+
+# 2. Navigate into the folder
+cd Portfolio
+
+# 3. Install dependencies
+npm install
+
+# 4. Start the development server
+npm run dev
