@@ -67,7 +67,7 @@ const About = () => {
   return (
     <>
       <div ref={fixRef} className='fixedDiv fixed w-full h-screen bg-black z-20 right-[-100%]'></div>
-      <div className='about flex flex-col lg:flex-row px-2 sm:p-10 justify-between items-center gap-5 lg:gap-0'>
+      <div className='about h-[93vh] flex flex-col lg:flex-row px-2 sm:p-10 justify-between items-center gap-5 lg:gap-0'>
         <div className='about-text w-full lg:w-1/2'>
           <h1 style={{ fontFamily: 'poppins' }} className='text-[#2C2C2C] text-[60px] overflow-hidden'>
             <span className='inline-block'> About Me </span>
